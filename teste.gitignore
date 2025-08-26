@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Relatórios de testes
+allure-report/
+allure-results/
+coverage/
+reports/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.cache
+
+# Ambiente local
+.env
